@@ -9,7 +9,7 @@
 // Update these with values suitable for your network.
 
 const char* ssid = "Red_MQTT";
-const char* password = "pruebatesis321";
+const char* password = "Your_Password";
 const char* mqtt_server = "192.168.158.230";
 
 Adafruit_VL53L0X lox = Adafruit_VL53L0X();
